@@ -33,4 +33,32 @@ The stated goal is to classify whether a water pump is: funtional, in need or re
  
  [](/Photos/image1.jpeg)  
 
-According to the WWF: "some 1.1 billion people worldwide lack access to water, and a total of 2.7 billion find water scarce for at least one month of the year. Inadequate sanitation is also a problem for 2.4 billion people—they are exposed to diseases, such as cholera and typhoid fever, and other water-borne illnesses" thus finding a way to accurately predict water pump functionality would dramatically improve the lives of many, especially women and girls, living in Tazania. 
+According to the WWF: "some 1.1 billion people worldwide lack access to water, and a total of 2.7 billion find water scarce for at least one month of the year. Inadequate sanitation is also a problem for 2.4 billion people—they are exposed to diseases, such as cholera and typhoid fever, and other water-borne illnesses" thus finding a way to accurately predict water pump functionality would dramatically improve the lives of many, especially women and girls, living in Tazania.  
+
+# EDA Analysis  
+<p align="center">
+  <img width="600" height="250" src="/Photos/image1.jpeg">
+</p>
+ 
+ [](/Photos/image1.jpeg)  
+
+# Modeling  
+<p align="center">
+  <img width="600" height="250" src="/Photos/image1.jpeg">
+</p>
+ 
+ [](/Photos/image1.jpeg)  
+
+# Final Model 
+<p align="center">
+  <img width="600" height="250" src="/Photos/image1.jpeg">
+</p>
+ 
+ [](/Photos/image1.jpeg)  
+
+# Summary
+
+# Resources: 
+* Flatiron School Curriculum 
+* DataDriven.org 
+* Unsplash
