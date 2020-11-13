@@ -36,7 +36,7 @@ The stated goal is to classify whether a water pump is: funtional, in need or re
 Water scarcity is not a new issue, but it is one the world has failed to adequately address. According to the World Wildlife Foundation, "some 1.1 billion people worldwide lack access to water, and a total of 2.7 billion find water scarce for at least one month of the year. Inadequate sanitation is also a problem for 2.4 billion people—they are exposed to diseases, such as cholera and typhoid fever, and other water-borne illnesses." Tanzania, where nearly 50 percent of all water wells are in disrepair, suffers greatly from this crisis.   
 
 <p align="center">
-  <img width="600" height="250" src="/Photos/Screen%20Shot%202020-11-12%20at%206.27.46%20PM.png">
+  <img width="600" height="400" src="/Photos/Screen%20Shot%202020-11-12%20at%206.27.46%20PM.png">
 </p>
  
  [](/Photos/Screen%20Shot%202020-11-12%20at%206.27.46%20PM.png)
