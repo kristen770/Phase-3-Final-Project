@@ -44,10 +44,10 @@ According to the WWF: "some 1.1 billion people worldwide lack access to water, a
 
 # Modeling  
 <p align="center">
-  <img width="600" height="250" src="/Photos/image1.jpeg">
+  <img width="600" height="250" src="/Photos/photo4.jpeg">
 </p>
  
- [](/Photos/image1.jpeg)  
+ [](/Photos/photo4.jpeg)  
 
 # Final Model 
 <p align="center">
