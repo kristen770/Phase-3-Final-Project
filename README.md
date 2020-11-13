@@ -48,7 +48,13 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
   <img width="600" height="250" src="/Photos/photo5.jpeg">
 </p>
  
- [](/Photos/photo5.jpeg)  
+ [](/Photos/photo5.jpeg)   
+ 
+ <p align="center">
+  <img width="600" height="250" src="/Photos/newplot.png">
+</p>
+ 
+ [](/Photos/newplot.png)   
 
 # Modeling  
 <p align="center">
