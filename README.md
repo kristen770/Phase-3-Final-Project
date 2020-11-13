@@ -10,7 +10,13 @@ This project was created by Kristen Davis at Flatiron School for the Phase 3 Fin
   * Machine Learning Techniques such as Decision Trees, Random Forest, GridSearchCV, Cost Function, RSME/ RME,  ROC curves, Feature Importance and Confusion      Matrices
   * Ability to present non technical data insights & data analysis 
 
-# Senario 
+# Senario  
+<p align="center">
+  <img width="600" height="250" src="/Photos/photo2.jpeg">
+</p>
+ 
+ [](/Photos/photo2.jpeg)  
+
 This project aimed to use data collected from from Taarifa and the Tanzanian Ministry of Water to predict the status of water pumps through out Tanzania. For each water pump the data set included a large number of information including- 
 
 * Geographical data such as: latitude, logitude, region and subvillage 
