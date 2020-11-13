@@ -56,9 +56,14 @@ According to the WWF: "some 1.1 billion people worldwide lack access to water, a
  
  [](/Photos/photo3.jpeg)  
 
-# Summary
+# Summary  
+
+## Future Work:  
+    
 
 # Resources: 
 * Flatiron School Curriculum 
 * DataDriven.org 
-* Unsplash
+* Unsplash 
+
+# [Blog Post](https://medium.com/@kristendavis27/graphing-feature-importance-with-scatter-polar-plots-72e9d0cb1d9c)
