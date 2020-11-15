@@ -1,5 +1,11 @@
 # Phase-3-Final-Project  
-ByL Kristen Davis 
+ByL Kristen Davis  
+
+<p align="center">
+  <img width="600" height="600" src="/Photos/newplot.png">
+</p>
+ 
+ [](/Photos/newplot.png)   
 
 # Overview 
 This project was created by Kristen Davis at Flatiron School for the Phase 3 Final Project - November 2020. This project was completed using predictive machine learning techniques as part of DataDriven's competition "Pump It Up: Data Mining the Water Table". The project goal was to use EDA to gain a firm understanding of a large dataset and then apply that to machine learning modeling.
@@ -48,13 +54,13 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
   <img width="600" height="250" src="/Photos/photo5.jpeg">
 </p>
  
- [](/Photos/photo5.jpeg)   
+ [](/Photos/photo5.jpeg)    
  
- <p align="center">
-  <img width="600" height="250" src="/Photos/newplot.png">
-</p>
+ For my EDA anaylsis and non technical slide show I wanted to approach the project from the hypothetical view point of a start up company that was using data to better serve their purpose. In conjuction with modeling, these questions helped be understand the 'picture' of functioning and non functioning water wells in Tanzania.  
  
- [](/Photos/newplot.png)   
+ ## Water Well Status and Construciton Year 
+ Intution would suggest that the data would support the hypothesis that of the water pumps with a known construction year, the younger the water pump the more likely it is to be functioning. This is the first relationship I explored in the data. 
+ 
 
 # Modeling  
 <p align="center">
@@ -65,7 +71,9 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
  
  Modeling this data provided an oppurtunity to explore multiple modeling techniques: KNN, Logistic Regression, Random Forests and other ensemble methods. Through out modeling my goal was to identify the model, feature and parameters that would best predict the status of well in Tanzania. Within each model I took approach, enumerating on a variety of models and data processing techniques. Below are the testing accuracy scores for each of my models, as well as a detailed summary of my final model. 
  
- * Single Tree - Testing Accuracy for Decision Tree Classifier: 70.88%  
+ * Single Tree Vanilla Processing - Testing Accuracy for Decision Tree Classifier: 70.88%   
+ * Bagged Decision Tree Vanilla Processing - Testing Accuracy for Decision Tree Classifier: 71.27% 
+ * Random Forest Vanilla Processing -v Testing Accuracy for Random Forest Classifier: 55.47%
 
 ## Final Model 
 <p align="center">
@@ -77,7 +85,8 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
 # Summary  
 
 ## Future Work:  
-* Use classes in workflow 
+* Use classes in workflow  
+* Use sklearn pipelines throught out modeling 
 
 # Resources: 
 * Flatiron School Curriculum 
