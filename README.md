@@ -55,9 +55,74 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
 </p>
  
  [](/Photos/photo5.jpeg)    
-Below is a brief summary of the extensive EDA preformed on this dataset. In conjuction with modeling, these questions helped be understand the 'picture' of functioning and non functioning water wells in Tanzania.  
+Below is a brief summary of the extensive EDA preformed on this dataset. In conjuction with modeling, these questions helped be understand the 'picture' of functioning and non functioning water wells in Tanzania.   
+
+* Based on a vanilla Random Forest the most important features for predicting construction year are: scheme_name, installer, scheme_management, permit
+
+* In general newer pumps are working regardless of pay structure
+* Lower district codes have a higher number of overall wells, non functional wells, and wells that need repair
+
+* If you consider the functional needs repair as functional all basins have more functioning wells than no functioning.
+* Lake Victoria has the closest ratio: 5100 functional to 4159 non-functional
+* Lake Nyassa and Rufiji have the largest percentage of wells that are functioning
+* Lake Rukwa has the smallest number of overall wells 
+
+ * There are 289 functional wells in Lgosi (Ward). this is significantly more than any other ward. The majority of wards have 50 wells in any given status group.
  
+ * Pangani basin has the highest number of pumps producing insufficent amounts of water.
  
+ * Njombe has 447 water pumps funded by UNICEF
+ * 80% of water pumps are functioning in Njombe in the Rufiji
+ * The majority of the funtional water pumps were funded by UNICEF / installed by DWE / Had a publice meeting / opperated by WUA / VWC, were constructed after 2000, are gravity / pay monthly / soft / enough / spring in a communal standpipe
+ 
+ * Funded by the Government of Tanzania (2131 of 19640 / 11% overall)
+* 649 have a GPS Height between 0 and 50 (largest grouping)
+* Largest grouping in Rufiji but well distributed across most basins (Lake Rukwa/ Ruvuma smallest) n
+* Most in the Iringa Region
+* Most (1873) in LGA Njombe
+* 87% had a public meeting
+* 59% of the wells are managed by VWC
+* 67% of the wells have a permit
+* 55% of the wells use gravity as their extraction type
+* Most never pay with second most common pay structure being "pay per bucket" and "pay monthly"
+* 7807 wells have springs as their water source
+* 77% of wells have ground water as their water source
+* 67% of wells have a communal standpipe
+
+* The majority of wells that are functioning well with sufficient water are funded by the Government of Tanzania but if you look at all the wells the Government of Tanzania is making they are making more bad wells than good wells. Not good.
+
+* Largest group of government built water pumps in Pangani basin
+* 7831 wells were constructed after a public meeting, presumably
+* 6395 wells are managed by VWC
+* 67775 wells have a permit
+* 5550 wells are gravity extraction types
+* 4723 wells are never pay
+* 8041 wells are soft good quality. The largest bad water quality is salty 628
+* 4705 wells have enough water for their region, 3025 do not have enough
+* 4014 wells have springs as their water source
+* 6862 wells have ground water as their water source 
+* 5264 have communal standpipes as their water source
+
+* The vast majority of pumps that the government funds they also install
+
+* The biggest issue with not soft water is the saltiness
+
+* There are more nonfunctioning than functioning wells (2411 vs 2220)
+* The majority of the salty water wells are in Wami/ Ruvu (1217) the least in Lake Nyasa (13)
+* A large group are submersive
+* Machine dbh(2234) / shallow well (2274) - groundwater
+
+* The vast majority of water is good ('soft') regardless of payment type.
+
+* Abandoned floride counts = 180 functional 104 non functional 72 functional needs repair
+* Abandoned salty counts = 174 functional 93 non functional
+* The majority of unknown quality pumps are from the internal basin
+* There are more nonfunctiong salty water pumps than functioning (2411 salty non-functioning / 2220 satly functioning)
+
+* Boreholes produce enough good water (29.901k)
+
+* It is almost a 50/50 split if a communal standpipe is working or not. If it is never pay much higher precentages of funtioning pipes in pay per bucket and pay monthly models (16%/ 16%)
+* 12306 - 46% / 45% / 9%
 
 # Modeling  
 <p align="center">
