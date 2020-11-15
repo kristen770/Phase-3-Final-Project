@@ -55,11 +55,8 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
 </p>
  
  [](/Photos/photo5.jpeg)    
+Below is a brief summary of the extensive EDA preformed on this dataset. In conjuction with modeling, these questions helped be understand the 'picture' of functioning and non functioning water wells in Tanzania.  
  
- For my EDA anaylsis and non technical slide show I wanted to approach the project from the hypothetical view point of a start up company that was using data to better serve their purpose. In conjuction with modeling, these questions helped be understand the 'picture' of functioning and non functioning water wells in Tanzania.  
- 
- ## Water Well Status and Construciton Year 
- Intution would suggest that the data would support the hypothesis that of the water pumps with a known construction year, the younger the water pump the more likely it is to be functioning. This is the first relationship I explored in the data. 
  
 
 # Modeling  
