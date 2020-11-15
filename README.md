@@ -70,7 +70,8 @@ Below is a brief summary of the extensive EDA preformed on this dataset. In conj
  
  * Single Tree Vanilla Processing - Testing Accuracy for Decision Tree Classifier: 70.88%   
  * Bagged Decision Tree Vanilla Processing - Testing Accuracy for Decision Tree Classifier: 71.27% 
- * Random Forest Vanilla Processing -v Testing Accuracy for Random Forest Classifier: 55.47%
+ * Random Forest Vanilla Processing - Testing Accuracy for Random Forest Classifier: 55.47% 
+ * Random forest Grid Search: Testing Accuracy for Random Forest Classifier: 74.14%  
 
 ## Final Model 
 <p align="center">
