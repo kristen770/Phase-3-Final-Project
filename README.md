@@ -67,7 +67,7 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
  
  * Single Tree - Testing Accuracy for Decision Tree Classifier: 70.88%  
 
-# Final Model 
+## Final Model 
 <p align="center">
   <img width="600" height="250" src="/Photos/photo3.jpeg">
 </p>
