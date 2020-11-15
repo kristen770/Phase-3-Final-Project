@@ -61,7 +61,13 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
   <img width="600" height="250" src="/Photos/photo4.jpeg">
 </p>
  
- [](/Photos/photo4.jpeg)  
+ [](/Photos/photo4.jpeg) 
+ 
+ In order to model this data I took an iterative approach, enumerating on a variety of models and data processing techniques. Each of these iterations can be found in the Modeling folder in this repository, below is a summary of each finding. 
+ 
+ ## Single Tree - 
+ Testing Accuracy for Decision Tree Classifier: 70.88% 
+ 
 
 # Final Model 
 <p align="center">
