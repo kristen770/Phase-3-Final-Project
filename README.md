@@ -63,7 +63,7 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
  
  [](/Photos/photo4.jpeg) 
  
- In order to model this data I took an iterative approach, enumerating on a variety of models and data processing techniques. Each of these iterations can be found in the Modeling folder in this repository, a brief summary of the accuracy of each of those models is listed below.
+ Modeling this data provided an oppurtunity to explore multiple modeling techniques: KNN, Logistic Regression, Random Forests and other ensemble methods. Through out modeling my goal was to identify the model, feature and parameters that would best predict the status of well in Tanzania. Within each model I took approach, enumerating on a variety of models and data processing techniques. Below are the testing accuracy scores for each of my models, as well as a detailed summary of my final model. 
  
  * Single Tree - Testing Accuracy for Decision Tree Classifier: 70.88%  
 
@@ -77,7 +77,7 @@ Yet, with crisis comes opportunity -- opportunity to help, to make something bet
 # Summary  
 
 ## Future Work:  
-    
+* Use classes in workflow 
 
 # Resources: 
 * Flatiron School Curriculum 
