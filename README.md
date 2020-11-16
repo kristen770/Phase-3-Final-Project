@@ -115,7 +115,9 @@ Below is a brief summary of the extensive EDA preformed on this dataset. In conj
                       Optimal Parameters: {'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 100} 
  * KNN "Funtional Needs Repair" Binned to Functional - Testing Accuracy for KNN Classifier 54.77% 
  * Gausian Bayes "Funtional Needs Repair" Binned to Functional - Testing Accuracy for Gausian Classifier 72.93%  
- * Logistic Regression "Funtional Needs Repair" Binned to Functional - Testing Accuracy for Logistic Regression was 78%
+ * Logistic Regression "Funtional Needs Repair" Binned to Functional - Testing Accuracy for Logistic Regression was 78% 
+ 
+ In addition to each of these models I also completed several models using pipelines built in sklearn. These produced similarly accurate models (low 70s) but had a much more condenced workflow.
 
 ## Final Model 
 <p align="center">
@@ -128,7 +130,8 @@ Below is a brief summary of the extensive EDA preformed on this dataset. In conj
 
 ## Future Work:  
 * Use classes in workflow  
-* Use sklearn pipelines throught out modeling 
+* Use sklearn pipelines throught out modeling  
+* Use binary classification models with "Functional Needs Repair" binned with NonFunctioing 
 
 # Resources: 
 * Flatiron School Curriculum 
