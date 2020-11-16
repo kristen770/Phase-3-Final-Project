@@ -35,12 +35,6 @@ The stated goal is to classify whether a water pump is: funtional, in need or re
 
 Water scarcity is not a new issue, but it is one the world has failed to adequately address. According to the World Wildlife Foundation, "some 1.1 billion people worldwide lack access to water, and a total of 2.7 billion find water scarce for at least one month of the year. Inadequate sanitation is also a problem for 2.4 billion people—they are exposed to diseases, such as cholera and typhoid fever, and other water-borne illnesses." Tanzania, where nearly 50 percent of all water wells are in disrepair, suffers greatly from this crisis.   
 
-<p align="center">
-  <img width="600" height="400" src="/Photos/Screen%20Shot%202020-11-12%20at%206.27.46%20PM.png">
-</p>
- 
- [](/Photos/Screen%20Shot%202020-11-12%20at%206.27.46%20PM.png)
-
 Yet, with crisis comes opportunity -- opportunity to help, to make something better. Fixing the wells is a good first step, but it's nonetheless reactive. A more proactive approach --  Accurately predicting water pump functionality, therefore providing more consistent access to clean water and sanitary services -- would dramatically improve the lives of many, especially women and girls.
 
 # EDA Analysis  
@@ -134,6 +128,7 @@ Below is a brief summary of the extensive EDA preformed on this dataset. In conj
  * Bagged Decision Tree Vanilla Processing - Testing Accuracy for Decision Tree Classifier: 71.27% 
  * Random Forest Vanilla Processing - Testing Accuracy for Random Forest Classifier: 55.47% 
  * Random forest Grid Search: Testing Accuracy for Random Forest Classifier: 74.14%  
+                      Optimal Parameters: {'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 100}
 
 ## Final Model 
 <p align="center">
