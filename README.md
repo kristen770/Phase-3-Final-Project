@@ -71,8 +71,6 @@ Modeling this data provided an oppurtunity to explore multiple modeling techniqu
  * Random Forest Vanilla Processing - Testing Accuracy for Random Forest Classifier: 55.47% 
  
  * Random forest Grid Search: Testing Accuracy for Random Forest Classifier: 74.14%  
- 
-                      Optimal Parameters: {'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 100} 
                       
  * KNN "Funtional Needs Repair" Binned to Functional - Testing Accuracy for KNN Classifier 54.77% 
  
