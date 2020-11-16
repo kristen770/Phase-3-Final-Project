@@ -114,7 +114,8 @@ Below is a brief summary of the extensive EDA preformed on this dataset. In conj
  * Random forest Grid Search: Testing Accuracy for Random Forest Classifier: 74.14%  
                       Optimal Parameters: {'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 100} 
  * KNN "Funtional Needs Repair" Binned to Functional - Testing Accuracy for KNN Classifier 54.77% 
- * Gausian Bayes "Funtional Needs Repair" Binned to Functional - Testing Accuracy for Gausian Classifier 72.93% 
+ * Gausian Bayes "Funtional Needs Repair" Binned to Functional - Testing Accuracy for Gausian Classifier 72.93%  
+ * Logistic Regression "Funtional Needs Repair" Binned to Functional - Testing Accuracy for Logistic Regression was 78%
 
 ## Final Model 
 <p align="center">
