@@ -1,12 +1,6 @@
 # Phase-3-Final-Project  
 ByL Kristen Davis  
 
-<p align="center">
-  <img width="600" height="600" src="/Photos/newplot.png">
-</p>
- 
- [](/Photos/newplot.png)   
-
 # Overview 
 This project was created by Kristen Davis at Flatiron School for the Phase 3 Final Project - November 2020. This project was completed using predictive machine learning techniques as part of DataDriven's competition "Pump It Up: Data Mining the Water Table". The project goal was to use EDA to gain a firm understanding of a large dataset and then apply that to machine learning modeling.
 
@@ -159,4 +153,12 @@ Below is a brief summary of the extensive EDA preformed on this dataset. In conj
 * DataDriven.org 
 * Unsplash 
 
-# [Blog Post](https://medium.com/@kristendavis27/graphing-feature-importance-with-scatter-polar-plots-72e9d0cb1d9c)
+# [Blog Post](https://medium.com/@kristendavis27/graphing-feature-importance-with-scatter-polar-plots-72e9d0cb1d9c) 
+
+
+<p align="center">
+  <img width="600" height="600" src="/Photos/newplot.png">
+</p>
+ 
+ [](/Photos/newplot.png)   
+
