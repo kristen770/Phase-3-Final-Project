@@ -115,6 +115,7 @@ Based on the feature importance and my EDA it seems as though one of the most im
 * DataDriven.org 
 * Unsplash 
 
-# [Blog Post](https://medium.com/@kristendavis27/graphing-feature-importance-with-scatter-polar-plots-72e9d0cb1d9c) 
+# [Blog Post](https://medium.com/@kristendavis27/graphing-feature-importance-with-scatter-polar-plots-72e9d0cb1d9c)   
+# [Slide Recording](https://youtu.be/m96NO5g_YnY)
 
 
