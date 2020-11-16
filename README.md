@@ -81,8 +81,28 @@ Modeling this data provided an oppurtunity to explore multiple modeling techniqu
  In addition to each of these models I also completed several models using pipelines built in sklearn. These produced similarly accurate models (low 70s) but had a much more condenced workflow.
 
 ## Final Model  
+Based on the iterative models I had done peviously I wanted to use a Random Forest for my final model. I also wanted to test the random forest on a data set that I had set up to favor general, broader categories and one that favored specific, narrow categories. After training these models using the best parameters (established in a previous random forest model's grid search) the model that favored specificity preformed best. I kept the general model as well because business value of this is having a model that can predict on general categories may prove useful is a large number of specific details about a model are unknown.  
 
-## Summary  
+My final model's confucsion matrix is as follows:   
+
+                ACCURACY.  RECALL.   F1.       SUPPORT
+functional       0.69      0.94      0.79      8098
+non functional   0.84      0.55      0.67      5678 
+
+The top 10 most important features (and their feature importance score) when predicting this model were: 
+* quantity_dry                          0.100932
+* waterpoint_type_other                 0.056443
+* extraction_type_group_other           0.050610
+* quantity_enough                       0.036423
+* amount_tsh                            0.027526
+* construction_year                     0.026627
+* funder_Government Of Tanzania         0.013881
+* longitude                             0.013300
+* gps_height                            0.012849
+* waterpoint_type_communal standpipe    0.012635
+
+## Summary   
+Based on the feature importance and my EDA it seems as though one of the most important pieces of whether or not a pump will be functioning is the amount of water at the extraction point. This is an important insight that can be used by the Tanzanian Government (the primary funder and installer of water pumps) to better choose future water pump sights. Additional reseach outside of the scope of this project could yeild insight into what areas of the country have reliable water sources. With a majority of Tanzanians residing in urban areas additional attention could be paid to building out water line infastructure which would allow the people to depend less on water retrieval from a specific water pump. 
 
 ## Future Work:  
 * Use classes in workflow  
