@@ -122,7 +122,10 @@ Below is a brief summary of the extensive EDA preformed on this dataset. In conj
 * Boreholes produce enough good water (29.901k)
 
 * It is almost a 50/50 split if a communal standpipe is working or not. If it is never pay much higher precentages of funtioning pipes in pay per bucket and pay monthly models (16%/ 16%)
-* 12306 - 46% / 45% / 9%
+* 12306 - 46% / 45% / 9% 
+
+* 6052 of 22824 total water pumps that are not functioning also are 'dry' 
+* 37 of 4317 total water pumps that are in need of repair also are 'dry' 
 
 # Modeling  
 <p align="center">
