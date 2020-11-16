@@ -2,10 +2,10 @@
 ByL Kristen Davis   
 
 <p align="center">
-  <img width="600" height="250" src="/Photos/photo2.jpeg">
+  <img width="600" height="250" src="/Photos/Screen%20Shot%202020-11-16%20at%209.20.52%20AM.png">
 </p>
  
- [](/Photos/photo2.jpeg)  
+ [](/Photos/Screen%20Shot%202020-11-16%20at%209.20.52%20AM.png)  
 
 # Overview 
 This project was created by Kristen Davis at Flatiron School for the Phase 3 Final Project - November 2020. This project was completed using predictive machine learning techniques as part of DataDriven's competition "Pump It Up: Data Mining the Water Table". The project goal was to use EDA to gain a firm understanding of a large dataset and then apply that to machine learning modeling.
